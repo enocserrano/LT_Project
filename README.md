@@ -1,21 +1,20 @@
 # Proyect-LT
 
 ##Problem
-The Legal requirements came up from differents chanels, with out priority neither context.
-
+Legal requests often arrive through multiple channels, without clear priority or proper context, wich leads to poorly managed legal risk.
 ##PoC Target
-Classify legal requirements since intake and assign a risk level 
+To classify legal request since intake stage and assign an explainable risk level.
 
 ##Scope
--Personal PoC
--Not relevant data
--Not Advanced ML
--focus on explainability and low cost
+-Personal Proof of Concept
+-No real data
+-Not Advanced Machine Learning
+-focused on explainability and low cost
 
-##Its not
+##This not
 -A product
 -A productive system
--Definitive solution
+-A definitive solution
 
 
 PoC legal intake y risk
