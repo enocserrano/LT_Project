@@ -1,4 +1,4 @@
-# Proyect-LT
+# LT_Project
 PoC legal intake y risk
 
 ##Problem
